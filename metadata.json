@@ -1,0 +1,5 @@
+{
+  "name": "AuraSphere: Holographic 3D Lab",
+  "description": "A high-precision 3D holographic sphere visualization built with pure CSS, exploring 3D transforms and spherical trigonometry.",
+  "requestFramePermissions": []
+}
